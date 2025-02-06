@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <!-- Blonde Hair Style -->
+  <path d="M250 90 
+           C180 90, 170 150, 190 180
+           L200 200 L300 200
+           L310 180
+           C330 150, 320 90, 250 90
+           Z" fill="#FFD700"/>
+  
+  <!-- Side Hair -->
+  <path d="M190 180 L185 220 L200 200 Z" fill="#FFD700"/>
+  <path d="M310 180 L315 220 L300 200 Z" fill="#FFD700"/>
+</svg>

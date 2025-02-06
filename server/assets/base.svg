@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <!-- Head -->
+  <circle cx="250" cy="150" r="50" fill="#FFE0BD"/>
+  
+  <!-- Neck -->
+  <rect x="235" y="200" width="30" height="30" fill="#FFE0BD"/>
+  
+  <!-- Body -->
+  <path d="M200 230 L300 230 L320 400 L180 400 Z" fill="#FFE0BD"/>
+  
+  <!-- Arms -->
+  <path d="M200 230 L150 350 L170 360 L220 240" fill="#FFE0BD"/>
+  <path d="M300 230 L350 350 L330 360 L280 240" fill="#FFE0BD"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <!-- Axe - positioned for right hand -->
+  <g transform="translate(330, 340) rotate(45)">
+    <!-- Handle -->
+    <rect x="0" y="-80" width="8" height="110" fill="#8B4513"/>
+    <!-- Axe Head -->
+    <path d="M8 -70 
+             L50 -90 
+             L40 -60 
+             L8 -50 
+             Z" fill="#C0C0C0"/>
+    <!-- Axe Back -->
+    <path d="M0 -70 
+             L-20 -80 
+             L-15 -60 
+             L0 -50 
+             Z" fill="#A0A0A0"/>
+  </g>
+</svg>

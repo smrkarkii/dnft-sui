@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <!-- Sword - positioned for right hand -->
+  <g transform="translate(330, 340) rotate(45)">
+    <!-- Blade -->
+    <rect x="0" y="-100" width="15" height="100" fill="#C0C0C0"/>
+    <!-- Guard -->
+    <rect x="-10" y="-10" width="35" height="10" fill="#FFD700"/>
+    <!-- Handle -->
+    <rect x="5" y="0" width="5" height="30" fill="#8B4513"/>
+    <!-- Pommel -->
+    <circle cx="7.5" cy="35" r="5" fill="#FFD700"/>
+  </g>
+</svg>
